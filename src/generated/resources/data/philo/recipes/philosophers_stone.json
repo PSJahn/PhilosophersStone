@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "philosophers_stone",
+  "key": {
+    "A": {
+      "tag": "forge:storage_blocks/amethyst"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/iron"
+    }
+  },
+  "pattern": [
+    "IAI",
+    "ADA",
+    "IAI"
+  ],
+  "result": {
+    "item": "philo:philosophers_stone"
+  },
+  "show_notification": true
+}
