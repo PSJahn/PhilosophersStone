@@ -58,7 +58,7 @@ public class ModRecipeProvider extends RecipeProvider {
         //6 Iron Blocks -> 1 Gold Block
         conversionDouble(consumer, Items.IRON_BLOCK, 6, Items.GOLD_BLOCK, 1);
         //4 Copper Blocks -> 3 Iron Blocks
-        conversionDouble(consumer, Items.COPPER_BLOCK, 3, Items.IRON_BLOCK, 4);
+        conversionDouble(consumer, Items.COPPER_BLOCK, 4, Items.IRON_BLOCK, 3);
 
         // Redstone Dust/Glowstone Dust
         conversionDouble(consumer, Items.REDSTONE, 1, Items.GLOWSTONE_DUST, 1);
