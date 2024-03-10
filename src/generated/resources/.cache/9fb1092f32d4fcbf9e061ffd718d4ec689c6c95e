@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-10T21:39:42.4064399	Recipes
+// 1.20.1	2024-03-10T23:06:42.099132	Recipes
 674a82f99c510b90d43de584ab20ade5d4a44e50 data/minecraft/advancements/recipes/tools/philosophers_stone_alt.json
 8b8123f28f36a4fb1650a9b42b74acd8d43e894f data/minecraft/recipes/philosophers_stone_alt.json
 bc7dbc0d93e77983ec47f41916ff9c7b33d76f56 data/philo/advancements/recipes/misc/conversions/andesite_to_granite.json
@@ -29,7 +29,7 @@ bce2727f91473ce0e85e64f18bb0899b0b3b53d9 data/philo/advancements/recipes/misc/co
 bab5db4bd1073a8e586c1d47f316c8c76af9f760 data/philo/advancements/recipes/misc/conversions/tuff_to_deepslate.json
 c1356f55ad98ae411c642524bf5743b6a60063e2 data/philo/advancements/recipes/tools/philosophers_stone.json
 7366ca658ae4f81621b91ac01032458ebea4e9a7 data/philo/recipes/conversions/andesite_to_granite.json
-68912db21bd39d5956ba56ed7cb09673f0ed8902 data/philo/recipes/conversions/copper_block_to_iron_block.json
+9e74b7c4ace59d3a1c476aeae85c72a9f1e87c9e data/philo/recipes/conversions/copper_block_to_iron_block.json
 9fa9586b87565ae78965a4f8349afd5fbf716c39 data/philo/recipes/conversions/copper_ingot_to_iron_ingot.json
 a50c401c5772f6716ce0925615347f82fc228450 data/philo/recipes/conversions/deepslate_to_stone.json
 13ac1e7a2f15442786c32aef1250d3ef37beb6cc data/philo/recipes/conversions/diamond_block_to_gold_block.json
@@ -45,7 +45,7 @@ e554da54b7169e56401076c6ff1dd9a77b01ab18 data/philo/recipes/conversions/gold_blo
 d15c33594400ffaa96d94538732ddbf2465f9f2e data/philo/recipes/conversions/gold_ingot_to_iron_ingot.json
 771ae625b1d0b91eec9fba6a7f73f2a8ff502601 data/philo/recipes/conversions/granite_to_diorite.json
 0f100d06b3501f0d2037ac3c1af70d6f10b0530e data/philo/recipes/conversions/honey_block_to_slime_block.json
-f72ba66a58a46e7931e5d1b686367aac1051b030 data/philo/recipes/conversions/iron_block_to_copper_block.json
+cbd8db4eac59b5978f7a38deb6d38174af914b87 data/philo/recipes/conversions/iron_block_to_copper_block.json
 25fe9cfce93b410b15d7468d70730d41a900d668 data/philo/recipes/conversions/iron_block_to_gold_block.json
 df183f0fd370b87c36343da490183645e1d19d00 data/philo/recipes/conversions/iron_ingot_to_copper_ingot.json
 0e94c0c67869fedcd794d6c10a0fee47111f0339 data/philo/recipes/conversions/iron_ingot_to_gold_ingot.json
