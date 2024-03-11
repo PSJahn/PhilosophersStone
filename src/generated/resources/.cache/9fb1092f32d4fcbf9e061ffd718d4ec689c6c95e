@@ -1,4 +1,4 @@
-// 1.20.1	2024-03-10T23:06:42.099132	Recipes
+// 1.20.1	2024-03-11T13:46:01.3627884	Recipes
 674a82f99c510b90d43de584ab20ade5d4a44e50 data/minecraft/advancements/recipes/tools/philosophers_stone_alt.json
 8b8123f28f36a4fb1650a9b42b74acd8d43e894f data/minecraft/recipes/philosophers_stone_alt.json
 bc7dbc0d93e77983ec47f41916ff9c7b33d76f56 data/philo/advancements/recipes/misc/conversions/andesite_to_granite.json
@@ -8,8 +8,6 @@ da23ad3a9be5358305db4d2eff3b34c89b568cff data/philo/advancements/recipes/misc/co
 7bac5c1e4bfe58017ae3ed02b940e98d086ecddf data/philo/advancements/recipes/misc/conversions/diamond_block_to_gold_block.json
 aeecf50982ecc328fc2f03333fae05163ae6d778 data/philo/advancements/recipes/misc/conversions/diamond_to_gold_ingot.json
 c3ed5da5bfc363fc2c00dfb08ac6c879eed6ed19 data/philo/advancements/recipes/misc/conversions/diorite_to_andesite.json
-5dbdf10597f4a787ebd6581bdd1243ffdb5f54a3 data/philo/advancements/recipes/misc/conversions/dispenser_to_dropper.json
-4091d9adfec7f2e9c686a5f553e1793a40c2b59b data/philo/advancements/recipes/misc/conversions/dropper_to_dispenser.json
 65ec5644bcbf82e4e120b03c70a03256d113336d data/philo/advancements/recipes/misc/conversions/glowstone_dust_to_redstone.json
 58ff0d386c028662bef71c1426979af7fac605ba data/philo/advancements/recipes/misc/conversions/glowstone_to_redstone_block.json
 a045d0a726c125ee3a86b1bab393c7cb6e5723d2 data/philo/advancements/recipes/misc/conversions/gold_block_to_diamond_block.json
@@ -35,8 +33,6 @@ a50c401c5772f6716ce0925615347f82fc228450 data/philo/recipes/conversions/deepslat
 13ac1e7a2f15442786c32aef1250d3ef37beb6cc data/philo/recipes/conversions/diamond_block_to_gold_block.json
 7e08724df247ba7ad1106e75c809156c34486d11 data/philo/recipes/conversions/diamond_to_gold_ingot.json
 f1c4666cf61d0a97b603eec7a69b93356056a100 data/philo/recipes/conversions/diorite_to_andesite.json
-29d2a1fc6c84b4df4f920a772bc406ca050ef742 data/philo/recipes/conversions/dispenser_to_dropper.json
-45e0a95ce395c49f20c3aed3d942bf8d2b37c413 data/philo/recipes/conversions/dropper_to_dispenser.json
 53960543790b6d65d77e11d85918ff183d4456ef data/philo/recipes/conversions/glowstone_dust_to_redstone.json
 a8b2f3471136e61e95c2a8dc4a5b4f5ea7114005 data/philo/recipes/conversions/glowstone_to_redstone_block.json
 e554da54b7169e56401076c6ff1dd9a77b01ab18 data/philo/recipes/conversions/gold_block_to_diamond_block.json
