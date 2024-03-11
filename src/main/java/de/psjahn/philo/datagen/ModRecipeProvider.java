@@ -78,9 +78,6 @@ public class ModRecipeProvider extends RecipeProvider {
 
         // Slime Block/Honey Block
         conversionDouble(consumer, Items.SLIME_BLOCK, 1, Items.HONEY_BLOCK, 1);
-
-        // Dispenser/Dropper
-        conversionDouble(consumer, Items.DISPENSER, 1, Items.DROPPER, 1);
     }
 
     private static void conversionDouble(Consumer<FinishedRecipe> consumer, ItemLike a, int aAmount, ItemLike b, int bAmount) {
